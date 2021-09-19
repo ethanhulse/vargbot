@@ -68,7 +68,7 @@ class MyClient(discord.Client):
 
 client = MyClient()
 
-client.run("ODg4Mjc0Mzc5NTEzOTMzODY0.YUQT-w.hixTu-8ELXayZadEOB00E3DP83s")
+client.run("OLD TOKEN")
 
 
     
