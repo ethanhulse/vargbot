@@ -73,7 +73,7 @@ class MyClient(discord.Client):
 
             #BALLS  
             
-            for word in liBall:
+            for word in liBalls:
                 if word in messageContent:
                     await message.reply(urlBalls)
 
